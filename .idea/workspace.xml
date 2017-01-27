@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="938eea35-490b-4f22-a35a-86503d1221e2" name="Default" comment="created a file">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/createyourwallet-index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/createyourwallet.html" afterPath="$PROJECT_DIR$/www/createyourwallet.html" />
-    </list>
+    <list default="true" id="938eea35-490b-4f22-a35a-86503d1221e2" name="Default" comment="created a file" />
     <ignored path="MAJORBANX.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -31,7 +28,7 @@
             <entry file="file://$PROJECT_DIR$/www/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="459">
-                  <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+                  <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
                   <folding />
                 </state>
               </provider>
@@ -195,7 +192,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1485526794727</updated>
-      <workItem from="1485526801622" duration="4816000" />
+      <workItem from="1485526801622" duration="4898000" />
     </task>
     <task id="LOCAL-00001" summary="created a file">
       <created>1485529081393</created>
@@ -215,7 +212,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4816000" />
+    <option name="totallyTimeSpent" value="4898000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -281,7 +278,7 @@
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
           <folding />
         </state>
       </provider>
