@@ -1,4 +1,28 @@
+.main-page  .page__background  {
+    background-color: #0177BD !important;
+}
+
 .header {
     text-align: center;
-    color: red;
+    color: white;
+}
+
+.motto {
+    text-align: center;
+    font-size: 12px;
+    color: white;
+    margin-top: -10px;
+}
+
+.yourname {
+    margin: 5% 12%;
+    border: 1px solid transparent;
+    border-bottom: 1px solid white;
+    width: 74%;
+    background-color: inherit;
+    color: white;
+}
+
+::-webkit-input-placeholder {
+    color: white;
 }
