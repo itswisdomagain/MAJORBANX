@@ -1,2 +1,28 @@
 /**/
+#above_tab{
 
+}
+
+.tab-bar{
+    top: 30px;
+    bottom: unset;
+    background: #0277bd;
+}
+
+.tab-bar__content{
+    top: 49px;
+    bottom: 0;
+}
+
+.tab-bar__button{
+    color: #ffffff;
+}
+
+:checked + .tab-bar__button > .tab-bar__icon{
+    color: #ffffff;
+}
+
+:checked + .tab-bar__button{
+    color: #ffffff;
+    border-bottom: 2px solid #ffffff;
+}
